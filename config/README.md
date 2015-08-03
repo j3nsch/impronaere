@@ -9,7 +9,9 @@ Die Termine können folgende Angaben enthalten.
 
 Beispiel:
 
+```
 date=2015-09-19
 time=20:00
 title=Was Ihr Wollt!
 location=Varia Vineta
+```
