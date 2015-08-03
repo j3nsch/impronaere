@@ -1,0 +1,29 @@
+[
+  {
+    "date": "2014-08-15",
+    "time": "20:00",
+    "title": "Die UrKnallShow",
+    "location": "Varia",
+    "status": "full"
+  },
+  {
+    "date": "2014-09-19",
+    "show": "WasIhrWollt",
+    "status": "full"
+  },
+  {
+    "date": "2014-10-17",
+    "show": "WasIhrWollt",
+    "status": "full"
+  },
+  { 
+    "date": "2014-11-21",
+    "show": "WasIhrWollt",
+    "status": "full"
+  },
+  {
+    "date": "2014-12-19",
+    "show": "WasIhrWollt",
+    "status": "full"
+  }
+]

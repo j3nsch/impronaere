@@ -1,0 +1,40 @@
+[
+  {
+    "date": "2015-01-04",
+    "time": "19:00",
+    "title": {
+      "text": "Flughunde & Friends: Club der Impronäre",
+      "url": "http://www.die-flughunde.de/ai1ec_event/flughunde-friends-club-der-impronare"
+    },
+    "location": "Theater Verlängertes Wohnzimmer"
+  },
+  {
+    "date": "2015-01-16",
+    "time": "20:00",
+    "title": "Was Ihr Wollt!",
+    "location": "Varia Vineta"
+  },
+  {
+    "date": "2015-01-22",
+    "time": "20:00",
+    "title": {
+      "text": "Club der Impronäre (Berlin) meets rabota KAROSHI (Cottbus)",
+      "url": "http://www.buehnenrausch.de/impro_cdi.html"
+    },
+    "location": "Bühnenrausch"
+  },
+  {
+    "date": "2015-02-20",
+    "time": "20:00",
+    "title": "Was Ihr Wollt!",
+    "location": "Varia Vineta"
+  },
+  {
+    "date": "2015-03-06",
+    "show": "Million"
+  },
+  {
+    "date": "2015-03-20",
+    "show": "WasIhrWollt"
+  }
+]

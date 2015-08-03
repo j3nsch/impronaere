@@ -1,14 +1,14 @@
 [
   {
-    "date": "2015-09-04",
+    "id": "Million",
     "time": "20:00",
     "title": "A MILLION WAYS TO ...",
-    "location": "Varia Vineta"
+    "location": "Varia"
   },
   {
-    "date": "2015-09-18",
+    "id": "WasIhrWollt"
     "time": "20:00",
     "title": "Was Ihr Wollt!",
-    "location": "Varia Vineta"
+    "location": "Varia"
   }
 ]
