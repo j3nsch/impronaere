@@ -30,11 +30,45 @@
     "location": "Varia Vineta"
   },
   {
+    "date": "2015-03-01",
+    "time": "20:00",
+    "title": {
+      "text": "Die Verstörten Wunschkinder vs Club der Impronäre",
+      "url": "http://www.theater-verlaengertes-wohnzimmer.de/blog/?ai1ec_event=impro-cup-der-goldene-knochen-2015"
+    },
+    "location": "Impro-Cup: Der Goldene Knochen 2015"
+  },
+  {
     "date": "2015-03-06",
     "show": "Million"
   },
   {
     "date": "2015-03-20",
+    "show": "WasIhrWollt"
+  },
+  {
+    "date": "2015-04-17",
+    "show": "WasIhrWollt"
+  },
+  {
+    "date": "2015-05-15",
+    "show": "WasIhrWollt"
+  },
+  {
+    "date": "2015-05-30",
+    "time": "20:00",
+    "title": {
+      "text": "mit Rabota Karoshi in Cottbus",
+      "url": "http://www.buehne8.de/rabota_karoshi.html"
+    },
+    "location": "- Bühne Acht in Cottbus"
+  },
+  {
+    "date": "2015-06-05",
+    "show": "Million"
+  },
+  {
+    "date": "2015-06-19",
     "show": "WasIhrWollt"
   },
   {
