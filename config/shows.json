@@ -1,14 +1,12 @@
-[
-  {
-    "id": "Million",
+{
+  "Million": {
     "time": "20:00",
     "title": "A MILLION WAYS TO ...",
     "location": "Varia"
   },
-  {
-    "id": "WasIhrWollt",
+  "WasIhrWollt": {
     "time": "20:00",
     "title": "Was Ihr Wollt!",
     "location": "Varia"
   }
-]
+}

@@ -1,13 +1,11 @@
-[
-  {
-    "id": "Varia",
+{
+  "Varia": {
     "name": "Varia Vineta",
-    "url": "http://www.stadttheaterpankow.de"
+    "url": "http://www.stadttheaterpankow.de/?page_id=127"
   },
-  {
-    "id": "BR",
+  "BR": {
     "name": "Bühnenrausch",
     "url": "http://www.buehnenrausch.de"
   }
-]
+}
   
