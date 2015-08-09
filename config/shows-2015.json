@@ -76,7 +76,34 @@
     "show": "Million"
   },
   {
+    "date": "2015-09-06",
+    "time": "17:00",
+    "title": {
+        "name": "beim Goldenen Knochen \"Meister des Abends\"",
+        "url": "http://www.die-flughunde.de/event/impro-cup-der-goldene-knochen-2015-qualifikation-meister-des-abends/?instance_id=3045"
+    },
+    "location": {
+        "name": "Theater Verlängertes Wohnzimmer",
+        "url": "http://www.theater-verlaengertes-wohnzimmer.de/"
+    }
+  },
+  {
     "date": "2015-09-18",
     "show": "WasIhrWollt"
-  }
-]
+  },
+  {
+    "date": "2015-09-19",
+    "time": "20:00",
+    "title": "\"Freundschaftsspiel\" mit Improvisationstheater Schmetterlings",
+    "location": "BR"
+  },
+  {
+    "date": "2015-09-26",
+    "time": "20:00",
+    "title": "Das muss so",
+    "location": {
+        "name": "Theater im Kino Süd",
+        "url": "http://www.theater-im-kino.de/TIK-Theater%20im%20Kino-Berlin/Theater%20im%20Kino/Kontakt/Spielhaeuser/TIK%20sued.htm"
+    }
+  }  
+] 

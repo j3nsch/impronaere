@@ -18,11 +18,11 @@ Beispiel:
     "date": "2015-09-19",
     "time": "20:00",
     "title": {
-      "text": "Was Ihr Wollt!",
+      "name": "Was Ihr Wollt!",
       "url": ""
     },
     "location": {
-      "text": "Varia Vineta",
+      "name": "Varia Vineta",
       "url": ""
     },
     description: ""
