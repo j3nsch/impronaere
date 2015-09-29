@@ -105,5 +105,29 @@
         "name": "Theater im Kino Süd",
         "url": "http://www.theater-im-kino.de/TIK-Theater%20im%20Kino-Berlin/Theater%20im%20Kino/Kontakt/Spielhaeuser/TIK%20sued.htm"
     }
-  }  
+  },
+  {
+    "date": "2015-10-02",
+    "show": "Million"
+  },
+  {
+    "date": "2015-10-16",
+    "show": "WasIhrWollt"
+  },
+  {
+    "date": "2015-11-06",
+    "show": "Million"
+  },
+  {
+    "date": "2015-11-20",
+    "show": "WasIhrWollt"
+  },
+  {
+    "date": "2015-12-04",
+    "show": "Million"
+  },
+  {
+    "date": "2015-12-18",
+    "show": "WasIhrWollt"
+  }
 ] 
