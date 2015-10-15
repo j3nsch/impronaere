@@ -112,7 +112,9 @@
   },
   {
     "date": "2015-10-16",
-    "show": "WasIhrWollt"
+    "time": "20:00",
+    "title": "<span style='text-decoration: line-through'>Was Ihr Wollt!</span> <span style='color: black; font-family: Arial'>(findet nicht statt)</span>",
+    "location": "Varia"
   },
   {
     "date": "2015-11-06",
