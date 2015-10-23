@@ -129,6 +129,15 @@
     "show": "Million"
   },
   {
+    "date": "2015-12-12",
+    "time": "20:00",
+    "title": "Das muss so",
+    "location": {
+        "name": "Theater im Kino Süd",
+        "url": "http://www.theater-im-kino.de/TIK-Theater%20im%20Kino-Berlin/Theater%20im%20Kino/Kontakt/Spielhaeuser/TIK%20sued.htm"
+    }
+  },
+  {
     "date": "2015-12-18",
     "show": "WasIhrWollt"
   }
