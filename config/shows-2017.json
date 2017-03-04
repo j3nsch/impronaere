@@ -24,7 +24,7 @@
     "show": "WasIhrWollt"
   },
   {
-    "date": "2017-04-08",
+    "date": "2017-04-01",
     "show": "DasMussSo"
   },
   {
@@ -32,11 +32,40 @@
     "show": "WasIhrWollt"
   },
   {
-    "date": "2017-05-06",
+    "date": "2017-04-08",
+    "time": "20:00",
+    "title": "Ist das Kunst ...",
+    "location": {
+      "name": "ErsterErster",
+      "url": "http://www.erstererster.de"
+    }
+  },
+  {
+    "date": "2017-04-22",
+    "time": "18:00",
+    "title": {
+      "name": "Berliner Impro Marathon",
+      "url": "http://berliner-impro-marathon.de/"
+    },
+    "location": {
+      "name": "Brotfabrik Berlin",
+      "url": "http://www.brotfabrik-berlin.de/"
+    }
+  },
+  {
+    "date": "2017-05-12",
     "show": "DasMussSo"
   },
   {
     "date": "2017-05-19",
+    "show": "WasIhrWollt"
+  },
+  {
+    "date": "2017-06-03",
+    "show": "DasMussSo"
+  },
+  {
+    "date": "2017-06-16",
     "show": "WasIhrWollt"
   }
 ]
