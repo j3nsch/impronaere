@@ -1,0 +1,51 @@
+[
+  {
+    "date": "2017-08-26",
+    "template": "dates/alinaelumr.phtml"
+  },
+  {
+    "date": "2017-09-02",
+    "show": "DasMussSo"
+  },
+  {
+    "date": "2017-09-15",
+    "show": "WasIhrWollt"
+  },
+  {
+    "date": "2017-10-07",
+    "show": "DasMussSo"
+  },
+  {
+    "date": "2017-10-13",
+    "time": "20:00",
+    "title": "Galerie meets Impro",
+    "location": {
+      "name": "ErsterErster",
+      "url": "http://www.erstererster.de"
+    }
+  },
+  {
+    "date": "2017-10-20",
+    "show": "WasIhrWollt"
+  },
+  {
+    "date": "2017-11-02",
+    "template": "dates/improneta.phtml"
+  },
+  {
+    "date": "2017-11-11",
+    "show": "DasMussSo"
+  },
+  {
+    "date": "2017-11-17",
+    "show": "WasIhrWollt"
+  },
+  {
+    "date": "2017-12-02",
+    "show": "DasMussSo"
+  },
+  {
+    "date": "2017-12-15",
+    "show": "WasIhrWollt"
+  }
+]
