@@ -12,6 +12,10 @@
     "show": "WasIhrWollt"
   },
   {
+    "date": "2017-09-16",
+    "template": "dates/traumschueff.phtml"
+  },
+  {
     "date": "2017-10-07",
     "show": "DasMussSo"
   },
