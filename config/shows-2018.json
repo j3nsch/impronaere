@@ -29,6 +29,10 @@
     "show": "WasIhrWollt"
   },
   {
+    "date": "2017-10-28",
+    "template": "dates/improfestivalpotsdam.phtml"
+  },
+  {
     "date": "2017-11-02",
     "template": "dates/improneta.phtml"
   },
