@@ -76,14 +76,17 @@
     "date": "2018-03-03",
     "show": "DasMussSo"
   },
-  {
-    "date": "2018-03-04",
-    "show": "Welten"
-  },
-  {
-    "date": "2018-03-16",
-    "show": "WasIhrWollt"
-  },
+    {
+        "date": "2018-03-04",
+        "show": "Welten",
+        "premiere": true,
+        "description": "Irgendwo zwischen Realität und Improvisation lauert die Erkenntnis. Es gibt nicht nur die eine Welt, nicht nur das eine Universum, in dem wir uns bewegen. Ein kleiner Schritt zur Seite, ein Schnipsen mit den Fingern oder die Tür da drüben könnten das Portal zu einer Ebene sein, die neue Perspektiven eröffnet. Oder ziemlich vertraut erscheint. Parallel oder sich kreuzend, wer weiß das schon? Wagen Sie mit dem Club der Impronäre den Schritt ins Ungewisse der improvisierten Fiktion!"
+    },
+    {
+        "date": "2018-03-16",
+        "show": "WasIhrWollt",
+        "description": "Der Club gönnt sich und Euch was. Wir haben Freunde eingeladen. Die wundervollen <a href=\"https://improbanden.de\">Die Improbanden</a> spielen mit uns gemeinsam. Was? Wird noch nicht verraten."
+    },
   {
     "date": "2018-04-07",
     "show": "DasMussSo"
@@ -91,6 +94,20 @@
   {
     "date": "2018-04-20",
     "show": "WasIhrWollt"
+  },
+  {
+    "date": "2018-04-21",
+    "time": "18:00",
+    "title": {
+      "name": "Berliner Impro Marathon",
+      "url": "http://berliner-impro-marathon.de/"
+    },
+    "location": {
+      "name": "Brotfabrik Berlin",
+      "url": "http://www.brotfabrik-berlin.de/"
+    },
+      "ordering": false,
+      "description": "Wir sind mit dabei!"
   },
   {
     "date": "2018-05-05",
