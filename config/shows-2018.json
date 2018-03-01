@@ -74,13 +74,15 @@
   },
   {
     "date": "2018-03-03",
-    "show": "DasMussSo"
+    "show": "DasMussSo",
+    "image": "varia-show.jpg"
   },
     {
         "date": "2018-03-04",
         "show": "Welten",
         "premiere": true,
-        "description": "Irgendwo zwischen Realität und Improvisation lauert die Erkenntnis. Es gibt nicht nur die eine Welt, nicht nur das eine Universum, in dem wir uns bewegen. Ein kleiner Schritt zur Seite, ein Schnipsen mit den Fingern oder die Tür da drüben könnten das Portal zu einer Ebene sein, die neue Perspektiven eröffnet. Oder ziemlich vertraut erscheint. Parallel oder sich kreuzend, wer weiß das schon? Wagen Sie mit dem Club der Impronäre den Schritt ins Ungewisse der improvisierten Fiktion!"
+        "description": "Irgendwo zwischen Realität und Improvisation lauert die Erkenntnis. Es gibt nicht nur die eine Welt, nicht nur das eine Universum, in dem wir uns bewegen. Ein kleiner Schritt zur Seite, ein Schnipsen mit den Fingern oder die Tür da drüben könnten das Portal zu einer Ebene sein, die neue Perspektiven eröffnet. Oder ziemlich vertraut erscheint. Parallel oder sich kreuzend, wer weiß das schon? Wagen Sie mit dem Club der Impronäre den Schritt ins Ungewisse der improvisierten Fiktion!",
+        "image": "events/zwischen_den_welten2.jpg"
     },
     {
         "date": "2018-03-11",
