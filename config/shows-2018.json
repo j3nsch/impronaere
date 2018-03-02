@@ -95,7 +95,9 @@
     {
         "date": "2018-03-16",
         "show": "WasIhrWollt",
-        "description": "Der Club gönnt sich und Euch was. Wir haben Freunde eingeladen. Die wundervollen <a href=\"https://improbanden.de\">Die Improbanden</a> spielen mit uns gemeinsam. Was? Wird noch nicht verraten."
+        "description": "Der Club gönnt sich und Euch was. Wir haben Freunde eingeladen. Die wundervollen <a href=\"https://improbanden.de\">Die Improbanden</a> spielen mit uns gemeinsam. Was? Wird noch nicht verraten.",
+        "image": "events/club_meets_friends.jpg"
+
     },
   {
     "date": "2018-04-07",
@@ -105,20 +107,22 @@
     "date": "2018-04-20",
     "show": "WasIhrWollt"
   },
-  {
-    "date": "2018-04-21",
-    "time": "18:00",
-    "title": {
-      "name": "Berliner Impro Marathon",
-      "url": "http://berliner-impro-marathon.de/"
+    {
+        "date": "2018-04-21",
+        "time": "18:00",
+        "title": {
+            "name": "Berliner Impro Marathon",
+            "url": "http://berliner-impro-marathon.de/"
+        },
+        "location": {
+            "name": "Brotfabrik Berlin",
+            "url": "http://www.brotfabrik-berlin.de/"
+        },
+        "ordering": false,
+        "description": "Wir sind mit dabei!",
+        "template": "bim2018.phtml",
+        "special": true
     },
-    "location": {
-      "name": "Brotfabrik Berlin",
-      "url": "http://www.brotfabrik-berlin.de/"
-    },
-      "ordering": false,
-      "description": "Wir sind mit dabei!"
-  },
   {
     "date": "2018-05-05",
     "show": "DasMussSo"
