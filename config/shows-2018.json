@@ -143,5 +143,52 @@
   {
     "date": "2018-06-15",
     "show": "WasIhrWollt"
+  },
+  {
+    "date": "2018-09-02",
+    "show": "Welten",
+    "description": "Irgendwo zwischen Realität und Improvisation lauert die Erkenntnis. Es gibt nicht nur die eine Welt, nicht nur das eine Universum, in dem wir uns bewegen. Ein kleiner Schritt zur Seite, ein Schnipsen mit den Fingern oder die Tür da drüben könnten das Portal zu einer Ebene sein, die neue Perspektiven eröffnet. Oder ziemlich vertraut erscheint. Parallel oder sich kreuzend, wer weiß das schon? Wagen Sie mit dem Club der Impronäre den Schritt ins Ungewisse der improvisierten Fiktion!",
+    "image": "events/zwischen_den_welten2.jpg"
+  },
+  {
+    "date": "2018-09-21",
+    "title": "ImproBINGO",
+    "location": "Varia"
+  },
+  {
+    "date": "2018-10-06",
+    "show": "Fenster"
+  },
+  {
+    "date": "2018-10-19",
+    "time": "20:00",
+    "title": "Impro & Lesung",
+    "location": "Varia"
+  },
+  {
+    "date": "2018-11-09",
+    "show": "Fenster"
+  },
+  {
+    "date": "2018-11-15",
+    "title": {
+      "name": "Improneta",
+      "url": "https://www.improneta.de/"
+    },
+    "image": "events/improneta2018.jpg"
+  },
+  {
+    "date": "2018-12-01",
+    "show": "Fenster"
+  },
+  {
+    "date": "2018-12-02",
+    "show": "Welten",
+    "description": "Irgendwo zwischen Realität und Improvisation lauert die Erkenntnis. Es gibt nicht nur die eine Welt, nicht nur das eine Universum, in dem wir uns bewegen. Ein kleiner Schritt zur Seite, ein Schnipsen mit den Fingern oder die Tür da drüben könnten das Portal zu einer Ebene sein, die neue Perspektiven eröffnet. Oder ziemlich vertraut erscheint. Parallel oder sich kreuzend, wer weiß das schon? Wagen Sie mit dem Club der Impronäre den Schritt ins Ungewisse der improvisierten Fiktion!",
+    "image": "events/zwischen_den_welten2.jpg"
+  },
+  {
+    "date": "2018-12-21",
+    "show": "WasIhrWollt"
   }
 ]
