@@ -1,15 +1,19 @@
 {
   "Varia": {
     "name": "Varia Vineta",
-    "url": "http://www.stadttheaterpankow.de/?page_id=127"
+    "url": "https://www.stadttheaterpankow.de/?page_id=127"
   },
   "BR": {
     "name": "BühnenRausch",
-    "url": "http://www.buehnenrausch.de"
+    "url": "https://www.buehnenrausch.de"
   },
   "TIKNORD": {
     "name": "TiK Nord",
-    "url": "http://www.theater-im-kino.de/TIK-Theater%20im%20Kino-Berlin/Theater%20im%20Kino/Kontakt/Spielhaeuser/TIK%20nord.htm"
-  } 
+    "url": "http://www.theater-im-kino.de/"
+  },
+  "Aufsturz": {
+    "name": "Aufsturz",
+    "url": "http://www.aufsturz.de/"
+  }
 }
-  
+
