@@ -46,5 +46,15 @@
     "time": "20:00",
     "title": "Impro und Lesung",
     "location": "Varia"
+  },
+  {
+    "date": "2019-03-23",
+    "time": "20:00",
+    "title":"Impro-Doppelpack mit Impromptü: Das Impro-Traumschiff",
+    "location": {
+      "name": "Hamburg - Bürgertreff Altona-Nord",
+      "url": "https://www.buergertreff-altonanord.de/"
+    },
+    "ordering": "0"
   }
 ]
