@@ -72,5 +72,35 @@
     "description": "Wir sind mit dabei!",
     "template": "bim2019.phtml",
     "special": true
+  },
+  {
+    "date": "2019-05-04",
+    "time": "20:00",
+    "title": "Stadtneurosen - im Stil von Woody Allen",
+    "location": "TIKNORD"
+  },
+  {
+    "date": "2019-05-17",
+    "time": "20:00",
+    "title": "Liebe und Tod",
+    "location": "Varia"
+  },
+  {
+    "date": "2019-06-01",
+    "time": "20:00",
+    "title": "Berlin Bastards",
+    "location": "TIKNORD"
+  },
+  {
+    "date": "2019-06-02",
+    "time": "20:00",
+    "title": "Impro BINGO",
+    "location": "BR"
+  },
+  {
+    "date": "2019-06-17",
+    "time": "20:00",
+    "title": "Kille, kille Pankow",
+    "location": "Varia"
   }
 ]
