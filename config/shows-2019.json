@@ -134,6 +134,16 @@
     "location": "Varia"
   },
   {
+    "date": "2019-10-31",
+    "title": {
+      "name": "Improneta",
+      "url": "https://www.improneta.de"
+    },
+    "location": "Varia",
+    "description": "Drei Abende, vier Shows! Improvisationstheater vom Feinsten mit tollen Spielern aus den unterschiedlichsten Gruppen. Mehr Informationen auf der <a target=\"_blank\" href=\"https://www.improneta.de\">Improneta-Homepage</a>.",
+    "image": "events/improneta2019.jpg"
+  },
+  {
     "date": "2019-11-22",
     "time": "20:00",
     "title": "Impro und Lesung",
