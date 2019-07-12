@@ -104,15 +104,57 @@
     "location": "Varia"
   },
   {
+    "date": "2019-08-23",
+    "time": "20:00",
+    "title": "Pankow Ahoi!",
+    "location": "Varia"
+  },
+  {
     "date": "2019-09-01",
     "time": "20:00",
     "title": "Impro BINGO",
     "location": "BR"
   },
   {
+    "date": "2019-09-07",
+    "time": "20:00",
+    "title": "Impro-Show",
+    "location": "TIKNORD"
+  },
+  {
+    "date": "2019-09-20",
+    "time": "20:00",
+    "title": "Was Ihr Wollt!",
+    "location": "Varia"
+  },
+  {
+    "date": "2019-10-18",
+    "time": "20:00",
+    "title": "Was Ihr Wollt!",
+    "location": "Varia"
+  },
+  {
+    "date": "2019-11-22",
+    "time": "20:00",
+    "title": "Was Ihr Wollt!",
+    "location": "Varia"
+  },
+  {
     "date": "2019-12-01",
     "time": "20:00",
     "title": "Impro BINGO",
     "location": "BR"
+  },
+  {
+    "date": "2019-12-07",
+    "time": "20:00",
+    "title": "Impro-Show",
+    "location": "TIKNORD"
+  },
+  {
+    "date": "2019-12-13",
+    "time": "20:00",
+    "title": "X-Mas Impro",
+    "location": "Varia"
   }
 ]
