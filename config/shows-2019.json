@@ -141,7 +141,9 @@
     },
     "location": "Varia",
     "description": "Drei Abende, vier Shows! Improvisationstheater vom Feinsten mit tollen Spielern aus den unterschiedlichsten Gruppen. Mehr Informationen auf der <a target=\"_blank\" href=\"https://www.improneta.de\">Improneta-Homepage</a>.",
-    "image": "events/improneta2019.jpg"
+    "image": "events/improneta2019.jpg",
+    "ordering": false,
+    "special": true
   },
   {
     "date": "2019-11-22",
