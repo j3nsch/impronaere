@@ -150,8 +150,9 @@
     "date": "2019-11-22",
     "time": "20:00",
     "title": "Impro & Lesung",
+    "subtitle": "*Worte bewegen*",
     "location": "Varia",
-    "description": "<b>*Worte bewegen*</b> In dieser Show begrüßen wir Autorinnen laden zu einer Melange aus selbverfassten Texten und improvisierten Geschichten ein. Inspiriert vom Gelesenen kann auch das Publikum die Improkünstlerinnen mit ihren Wünschen nach Anknüpfendem, Vertiefendem, der Mikro- oder Makrobetrachtung, für den Szenenweg inspirieren."
+    "description": "In dieser Show begrüßen wir Autorinnen laden zu einer Melange aus selbverfassten Texten und improvisierten Geschichten ein. Inspiriert vom Gelesenen kann auch das Publikum die Improkünstlerinnen mit ihren Wünschen nach Anknüpfendem, Vertiefendem, der Mikro- oder Makrobetrachtung, für den Szenenweg inspirieren."
   },
   {
     "date": "2019-12-01",
@@ -162,7 +163,8 @@
   {
     "date": "2019-12-07",
     "time": "20:00",
-    "title": "More drama, Baby - im Stil von Almodóvar",
+    "title": "More drama, Baby",
+    "subtitle": "im Stil von Almodóvar",
     "location": "TIKNORD"
   },
   {
