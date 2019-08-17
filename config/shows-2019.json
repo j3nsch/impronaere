@@ -118,19 +118,20 @@
   {
     "date": "2019-09-07",
     "time": "20:00",
-    "title": "Impro-Show",
+    "title": "Duo Infernale",
     "location": "TIKNORD"
   },
   {
     "date": "2019-09-20",
     "time": "20:00",
-    "title": "Was Ihr Wollt!",
-    "location": "Varia"
+    "title": "Taxi, Taxi",
+    "location": "Varia",
+    "description": "Begegnungen einer Nacht. Inspiriert von Jarmuschs Meisterwerk \"Night on Earth\" improvisieren die Impronäre quer durch die Welt Begegnungen Unbekannter. Mal wie ein Hauch."
   },
   {
     "date": "2019-10-18",
     "time": "20:00",
-    "title": "Was Ihr Wollt!",
+    "title": "Liebe & Tod",
     "location": "Varia"
   },
   {
@@ -148,8 +149,9 @@
   {
     "date": "2019-11-22",
     "time": "20:00",
-    "title": "Impro und Lesung",
-    "location": "Varia"
+    "title": "Impro & Lesung *Worte bewegen*",
+    "location": "Varia",
+    "description": "In dieser Show begrüßen wir Autorinnen laden zu einer Melange aus selbverfassten Texten und improvisierten Geschichten ein. Inspiriert vom Gelesenen kann auch das Publikum die Improkünstlerinnen mit ihren Wünschen nach Anknüpfendem, Vertiefendem, der Mikro- oder Makrobetrachtung, für den Szenenweg inspirieren."
   },
   {
     "date": "2019-12-01",
@@ -160,13 +162,13 @@
   {
     "date": "2019-12-07",
     "time": "20:00",
-    "title": "Impro-Show",
+    "title": "More drama, Baby - im Stil von Almodóvar",
     "location": "TIKNORD"
   },
   {
     "date": "2019-12-13",
     "time": "20:00",
-    "title": "X-Mas Impro",
+    "title": "Leise gruselt der Schnee",
     "location": "Varia"
   }
 ]
