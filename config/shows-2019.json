@@ -176,5 +176,23 @@
     "title": "Leise gruselt der Schnee",
     "location": "Varia",
     "soldout": "true"
+  },
+  {
+    "date": "2020-01-10",
+    "time": "20:00",
+    "title": "Fenster zum Hof",
+    "location": "TIKNORD"
+  },
+  {
+    "date": "2020-02-14",
+    "time": "20:00",
+    "title": "A Million Ways To",
+    "location": "TIKNORD"
+  },
+  {
+    "date": "2020-02-21",
+    "time": "20:00",
+    "title": "Maskenball",
+    "location": "Varia"
   }
 ]
